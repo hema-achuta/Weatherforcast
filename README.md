@@ -19,7 +19,7 @@ This web application allows users to check the weather forecast for their curren
 
 1. Clone this repository to your local machine.
    ```
-   git clone https://github.com/your_username/weather-forecast-app.git
+   git clone https://github.com/hema-achuta/Weatherforcast-app.git
    ```
 
 2. Navigate to the project directory.
